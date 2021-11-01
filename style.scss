@@ -12,6 +12,7 @@ $green:#43b29e;
 }
 body{
     background-color: $bg;
+    overflow-x:hidden !important;
 }
 .container{
     width: 85%;
